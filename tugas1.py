@@ -24,7 +24,7 @@ class Login:
                 else:
                     print("Password salah")
             else:
-                print("username tidak ditemukan")
+                print("nama tidak ditemukan")
         
 User1 = Login()
 User1.Login()
