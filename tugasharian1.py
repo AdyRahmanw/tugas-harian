@@ -1,3 +1,3 @@
-Username = input(str("Masukan Username: " ))
-Password = input(str("Masukan Password: "))
+username = input(str("Masukan Username: " ))
+password = input(str("Masukan Password: "))
 print("login berhasil")
